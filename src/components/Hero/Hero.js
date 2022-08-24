@@ -19,7 +19,7 @@ const Hero = (props) => (
     <SectionText>
       Sou um desevolvedor full stack com o objetivo de sempre estar aprendendo para fazer paginas, projetos e coisas legais C:
     </SectionText>
-    <Button onClick = {()=>window.location = 'https://google.com'}>Meu contato! </Button>
+    <Button onClick = {()=>window.location = 'https://wa.me/5511947474540'}>Meu contato! </Button>
   </LeftSection>
 </Section>
 
